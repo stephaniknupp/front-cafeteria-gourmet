@@ -50,7 +50,6 @@ export function EditCard() {
   };
 
   const editCard = (event) => {
-    // console.log("meu id: ", id);
     event.preventDefault();
 
     // console.log("meu valor: ", CafeCardForm.name.value.toString());
